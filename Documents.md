@@ -27,8 +27,8 @@ Create and edit documents with text, images, and tables. You can also customize 
    You can change:
     * **Font** - Font, font size, font color, bold, italicize, underline, strikethrough.
     * **Style** - Headers, titles, subtitles.
-
-      > Click [here](Styles.md) to learn about styles in Product A.
+      >**Note**
+      > Click [here](Styles.html) to learn about styles in Product A.
       >
       {style="note"}
     * **Page Layout** - Margins, orientation, size, background.
@@ -80,9 +80,3 @@ Create and edit documents with text, images, and tables. You can also customize 
     * [Add Tables to Your Document](#add-tables-to-your-document).
     * [Customize Your Page Layout](#customize-your-page-layout).
 5. Click **Save**.
-
-{: .highlight }
-A paragraph
-
-{: .note }
-A paragraph2
