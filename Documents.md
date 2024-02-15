@@ -26,7 +26,7 @@ Create and edit documents with text, images, and tables. You can also customize 
 3. Format the text, as desired.
    You can change:
     * **Font** - Font, font size, font color, bold, italicize, underline, strikethrough.
-    * **Style** - Headers, titles, subtitles. 
+    * **Style** - Headers, titles, subtitles.
 
       > Click [here](Styles.md) to learn about styles in Product A.
       >
@@ -80,3 +80,9 @@ Create and edit documents with text, images, and tables. You can also customize 
     * [Add Tables to Your Document](#add-tables-to-your-document).
     * [Customize Your Page Layout](#customize-your-page-layout).
 5. Click **Save**.
+
+{: .highlight }
+A paragraph
+
+{: .note }
+A paragraph2
