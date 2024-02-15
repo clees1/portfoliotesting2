@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Product A Help Center
+description: A Help Center for Product A
 theme: just-the-docs
 
-url: https://clees1.github.io/portfoliotesting2
+url: https://clees1.github.io/portfoliotesting2/
 
 aux_links:
   Template Repository: https://clees1.github.io/portfoliotesting2

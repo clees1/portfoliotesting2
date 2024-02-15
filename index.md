@@ -1,8 +1,14 @@
 ---
 title: Home
 layout: home
+nav-order: 1
 ---
-# My Portfolio
+# Product A Help Center
+
+Welcome to the Product A Help Center!
+How can we help you today?
+
+[What is Product A?]()
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
