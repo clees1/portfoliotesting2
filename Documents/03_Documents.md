@@ -28,7 +28,7 @@ Create and edit documents with text, images, and tables. You can also customize 
     * **Font** - Font, font size, font color, bold, italicize, underline, strikethrough.
     * **Style** - Headers, titles, subtitles.
       >**Note**
-      > Click [here](Styles.html) to learn about styles in Product A.
+      > Click [here](../Styles.html) to learn about styles in Product A.
       >
       {style="note"}
     * **Page Layout** - Margins, orientation, size, background.
