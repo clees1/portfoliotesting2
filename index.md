@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: default
-nav-order: 4
+nav-order: 1
 ---
 # Product A Help Center
 
