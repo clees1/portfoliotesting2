@@ -1,6 +1,6 @@
 ---
 title: Default
-layout: Customization
+layout: Product A
 nav-order: 2
 ---
 # Product A

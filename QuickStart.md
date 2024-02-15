@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Quick Start
 nav_order: 3
 ---
 # Quick Start
