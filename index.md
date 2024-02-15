@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: default
+layout: home
 nav-order: 1
 ---
 # Product A Help Center
@@ -16,7 +16,7 @@ Use Product A to make documents quickly and easily. Customize your documents wit
 
 Product A is a word processor with simple and easy-to-use features. With Product A, it's easy to create documents that fit your company's brand.
 
-Click here to [get started with Product A!](QuickStart.md).
+Click here to [get started with Product A!](QuickStart.html).
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
