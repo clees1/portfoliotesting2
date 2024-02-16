@@ -72,9 +72,13 @@ You can directly create/edit styles using Product A's built-in CSS Editor.
 If you already have a .CSS file with defined styles, you can add/import it into Product A.
 
 <details><summary>Add a CSS</summary>Peek a boo!</details>
-<tabs>
-    <tab title="Add a CSS File">
-      <ol>
+<div class="tabs">
+    <button class="tablink" onclick="openTab(event, 'tab1')">Tab 1</button>
+    <button class="tablink" onclick="openTab(event, 'tab2')">Tab 2</button>
+</div>
+
+<div id="tab1" class="tabcontent">
+    <ol>
 <li> <p>Open Windows Explorer and navigate to the <b>Product A</b> folder.</p></li>
 <li> <p>Open the <b>Assets</b> folder.</p></li>
 <li> <p>Open the <b>Stylesheets</b> folder</p></li>
@@ -82,9 +86,10 @@ If you already have a .CSS file with defined styles, you can add/import it into 
 <p>The .CSS file is now available in Product A. .CSS files saved in the <b>Stylesheets</b> folder can be associated with documents.</p></li>
 <li><p>You can then <a anchor="associate-a-document-with-a-css-file">associate a Document with the .CSS File</a>.</p></li>
 </ol>
-    </tab>
-    <tab title="Import a CSS File">
-        <ol>
+</div>
+
+<div id="tab2" class="tabcontent">
+    <ol>
 <li> <p>Click <b>File > Import > CSS</b>.</p></li>
 <li> <p>
       Select the .CSS file.</p></li>
@@ -96,8 +101,7 @@ If you already have a .CSS file with defined styles, you can add/import it into 
 </p>
 </li>
 </ol>
-    </tab>
-</tabs>
+</div>
 
 ## Associate a Document  with a .CSS File
 You must associate a document with a .CSS file in order to leverage the styles from that .CSS file. Otherwise, documents are associated with Product A's default styles (Default.CSS).
