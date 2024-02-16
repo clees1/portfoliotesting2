@@ -39,3 +39,47 @@
 .tabcontent.active {
   display: block;
 }
+
+/* Note Box */
+.note {
+  border: 1px solid #b3b3b3;
+  background-color: #f0f0f0;
+  color: #333;
+  padding: 15px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.note:before {
+  content: "\f05a"; /* Font Awesome icon code for 'info-circle' */
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  font-size: 18px;
+  color: #4CAF50; /* Change the color as needed */
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+}
+
+/* Warning Box */
+.warning {
+  border: 1px solid #ffcc00;
+  background-color: #ffffcc;
+  color: #333;
+  padding: 15px;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.warning:before {
+  content: "\f071"; /* Font Awesome icon code for 'exclamation-triangle' */
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900;
+  font-size: 18px;
+  color: #FF9800; /* Change the color as needed */
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+}
