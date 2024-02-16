@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Styles
 nav_order: 4
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Quick Start
 permalink: portfoliotesting2/QuickStart/QuickStart
 nav_order: 1

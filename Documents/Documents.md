@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Documents
 nav_order: 3
 ---
