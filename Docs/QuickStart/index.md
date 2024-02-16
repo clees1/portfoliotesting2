@@ -1,9 +1,15 @@
 ---
-layout: page
-title: Quick Start2
-permalink: QuickStart/QuickStart2
-nav_order: 2
+title: Home
+layout: home
+nav-order: 1
 ---
-# Quick Start
+# Product A Help Center
 
-This is the index file not the quickstart.md one.
+Welcome to the Product A Help Center!
+How can we help you today?
+
+## What is Product A?
+
+Product A is a word processor with simple and easy-to-use features. With Product A, it's easy to create documents that fit your company's brand.
+
+Click here to [get started with Product A!](/portfoliotesting2/QuickStart/QuickStart)
