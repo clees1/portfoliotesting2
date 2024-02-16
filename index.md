@@ -1,6 +1,7 @@
 ---
 title: Home
-layout: home
+layout: page
+nav-order: 1
 ---
 # Product A Help Center
 

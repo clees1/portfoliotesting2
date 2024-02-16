@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Styles
-nav_order: 4
+nav_order: 5
 ---
 # Styles
 

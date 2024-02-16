@@ -2,7 +2,7 @@
 layout: page
 title: Quick Start
 permalink: portfoliotesting2/QuickStart/QuickStart
-nav_order: 1
+nav_order: 3
 ---
 # Quick Start
 
