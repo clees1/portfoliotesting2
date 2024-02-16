@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quick Start2
-permalink: portfoliotesting2/QuickStart/QuickStart2
+permalink: QuickStart/QuickStart2
 nav_order: 2
 ---
 # Quick Start
