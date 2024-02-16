@@ -79,4 +79,4 @@ Before you begin this tutorial, you must:
 3. Click **Create New**.
 
    The new document is created; this document includes the styles, formats, and page layouts you included in the template.
-   Learn more about Documents [here](../Documents/Documents.md).
+   Learn more about Documents [here](../Docs/Documents/Documents.md).
