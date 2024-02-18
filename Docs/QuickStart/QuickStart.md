@@ -18,9 +18,8 @@ In this tutorial you will:
 
 Before you begin this tutorial, you must:
 
-1. Download and install Product A.
-2. Activate Product A with your license key.
-3. Launch Product A.
+1. [Download and install Product A](/portfoliotesting2/Docs/Installation/Installation#install-product-a).
+2. [Activate Product A](/portfoliotesting2/Docs/Installation/Installation#activate-product-a).
 
 ## Create a Document
 

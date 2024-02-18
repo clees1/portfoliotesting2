@@ -72,7 +72,7 @@ If you already have a .CSS file with defined styles, you can add it into the **S
 
 1. Open Windows Explorer and navigate to the **Product A** folder.
 2. Open the **Assets** folder.
-3. Open the **Stylehseets** folder.
+3. Open the **Stylesheets** folder.
 4. Save a copy of the .CSS file into the **Stylesheets** folder.
   
    The .CSS file is now available in Product A.
