@@ -30,7 +30,7 @@ Create and edit documents with text, images, and tables. You can also customize 
     * **Style** - Headers, titles, subtitles.
       {: .note }
       >**Note**
-      > Click [here](/portfoliotesting2/Docs/Styles/Styles.md) to learn about styles in Product A.
+      > Click [here](/portfoliotesting2/Docs/Styles/Styles) to learn about styles in Product A.
       >
     * **Page Layout** - Margins, orientation, size, background.
 4. Click **Save**.
