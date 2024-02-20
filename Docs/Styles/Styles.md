@@ -11,7 +11,7 @@ You can use various styles to create a consistent look across your documents. St
 {: .note-title }
 >**Note**
 >
->You can import a custom .css file rather than creating one from scratch. For more information, see Import a Custom CSS File.
+>You can import a custom .css file rather than creating one from scratch. For more information, see [Import a CSS File](#import-a-css-file).
 >
 
 ## Before you start
@@ -29,10 +29,10 @@ There are a few prerequisites you'll need to complete before you can create your
   * Photos
   * Illustrations
 * Basic understanding of HTML and CSS syntax.
- 
- > 
-> **Note:** Not sure what HTML/CSS means? Learn more [here](https://www.w3schools.com/html/html_css.asp).
-> 
+  {: .note-title } 
+  > 
+  > Not sure what HTML/CSS means? Learn more [here](https://www.w3schools.com/html/html_css.asp).
+  > 
 
 ## Use Product A Default Styles
 
