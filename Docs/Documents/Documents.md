@@ -27,7 +27,7 @@ Create and edit documents with text, images, and tables. You can also customize 
 3. Format the text, as desired.
    You can change:
     * **Font** - Font, font size, font color, bold, italicize, underline, strikethrough.
-    * * **Page Layout** - Margins, orientation, size, background.
+    * **Page Layout** - Margins, orientation, size, background.
     * **Style** - Headers, titles, subtitles.
 
 {: .note-title }
