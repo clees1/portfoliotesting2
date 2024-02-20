@@ -28,7 +28,9 @@ Create and edit documents with text, images, and tables. You can also customize 
    You can change:
     * **Font** - Font, font size, font color, bold, italicize, underline, strikethrough.
     * **Style** - Headers, titles, subtitles.
-      {: .note }
+      {: .note-title }
+      >**Note**
+      >
       > Click [here](/portfoliotesting2/Styles/Styles) to learn about styles in Product A.
       >
     * **Page Layout** - Margins, orientation, size, background.
