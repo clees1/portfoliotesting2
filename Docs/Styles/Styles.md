@@ -29,10 +29,10 @@ There are a few prerequisites you'll need to complete before you can create your
   * Photos
   * Illustrations
 * Basic understanding of HTML and CSS syntax.
-  {: .note-title }
-  >
-  > Not sure what HTML/CSS means? Learn more [here](https://www.w3schools.com/html/html_css.asp).
-  > 
+{: .note-title }
+ >
+ > Not sure what HTML/CSS means? Learn more [here](https://www.w3schools.com/html/html_css.asp).
+ > 
 
 ## Use Product A Default Styles
 
