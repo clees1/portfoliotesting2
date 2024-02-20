@@ -28,38 +28,38 @@ Before you begin this tutorial, you must:
 3. Enter a **Name** for your document.
 4. Design your document.
    
-   ### Type your text
+   #### Type your text
    
    You can change:
-    -**Font** - Font, font size, font color, bold, italicize, underline, strikethrough.
-    -**Style** - Headers, titles, subtitles.
-    -**Page Layout** - Margins, orientation, size, background.
+    - **Font** - Font, font size, font color, bold, italicize, underline, strikethrough.
+    - **Style** - Headers, titles, subtitles.
+    - **Page Layout** - Margins, orientation, size, background.
   
-   ### Add images
+   #### Add images
    
    * Click **Insert > Image**.
    You can:
-    -**Adjust Image Size** - Adjust the image dimensions and file size.
-    -**Adjust Brightness/Contrast/Sharpness** - Adjust image brightness, contrast, and sharpness.
-    -**Crop** - Crop the image.
+    - **Adjust Image Size** - Adjust the image dimensions and file size.
+    - **Adjust Brightness/Contrast/Sharpness** - Adjust image brightness, contrast, and sharpness.
+    - **Crop** - Crop the image.
    
-   ### Add Tables.
+   #### Add Tables.
    
    * Click **Insert > Table**
    You can:
-    -**Adjust Table Size** - Adjust the number of rows, columns, and header rows.
-    -**Add/Remove Borders and Shading** - Add/remove borders and shading for cells, columns, and rows.
-    -**Merge/Split Cells** - Combine/divide cells within a table.
-    -**Import a Spreadsheet as a Table** - Import an .xlsx or .csv file as a table.
+    - **Adjust Table Size** - Adjust the number of rows, columns, and header rows.
+    - **Add/Remove Borders and Shading** - Add/remove borders and shading for cells, columns, and rows.
+    - **Merge/Split Cells** - Combine/divide cells within a table.
+    - **Import a Spreadsheet as a Table** - Import an .xlsx or .csv file as a table.
 
-   ### Customize Your Page Layout
+   #### Customize Your Page Layout
    
    * Click **Design > Page Layout**.
    You can change:
-    -**Margins** - Adjust margin measurements.
-    -**Orientation** - Change page orientation to **Landscape** or **Portrait**.
-    -**Size** - Change the paper size.
-    -**Background** - Add a background image.
+    - **Margins** - Adjust margin measurements.
+    - **Orientation** - Change page orientation to **Landscape** or **Portrait**.
+    - **Size** - Change the paper size.
+    - **Background** - Add a background image.
 5. Click **Save**.
 
 ## Create a Document Template
@@ -78,4 +78,4 @@ Before you begin this tutorial, you must:
 3. Click **Create New**.
 
    The new document is created; this document includes the styles, formats, and page layouts you included in the template.
-   Learn more about Documents [here](../Docs/Documents/Documents.md).
+   Learn more about Documents [here](/portfoliotesting2/Docs/Documents/Documents.md).

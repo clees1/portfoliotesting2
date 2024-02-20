@@ -31,4 +31,4 @@ Leverage document templates to quickly create documents with consistent styles, 
 3. Click **Create New**.
 
    The new document is created; this document includes the styles, formats, and page layouts you included in the template.
-   Learn more about Documents [here](/portfoliotesting2/docs/Documents/Documents.md).
+   Learn more about Documents [here](/portfoliotesting2/Docs/Documents/Documents.md).
