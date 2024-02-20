@@ -3,29 +3,3 @@ description: A Help Center for Product A
 theme: just-the-docs
 
 url: https://clees1.github.io/portfoliotesting2/
-
-callouts:
-highlight:
-    color: yellow
-  important:
-    title: Important
-    color: blue
-  new:
-    title: New
-    color: green
-  note:
-    title: Note
-    color: purple
-  warning:
-    title: Warning
-    color: red
-
-plugins:
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
