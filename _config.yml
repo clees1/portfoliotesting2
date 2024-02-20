@@ -4,7 +4,6 @@ theme: just-the-docs
 
 url: https://clees1.github.io/portfoliotesting2/
 
-callouts_level: quiet # or loud
 callouts:
 highlight:
     color: yellow
@@ -20,3 +19,13 @@ highlight:
   warning:
     title: Warning
     color: red
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+
+kramdown:
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
