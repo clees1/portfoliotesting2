@@ -29,6 +29,7 @@ There are a few prerequisites you'll need to complete before you can create your
   * Photos
   * Illustrations
 * Basic understanding of HTML and CSS syntax.
+
 {: .note-title }
 >**Note**
 >
