@@ -27,4 +27,4 @@ To start using Product A, you need to install it.
 
 1. Select the **Start** button (lower-left corner of your screen) and type **Product A**.
 2. To open the Product A application, select its icon in the search results.
-3. When the application opens, accept the license agreement. Product A is now ready to use.
+3. When the application opens, accept the license agreement. Product A is now ready to use.[Get Started here!](portfoliotesting2/Quickstart/Quickstart)
