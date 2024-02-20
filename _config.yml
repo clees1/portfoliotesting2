@@ -20,3 +20,7 @@ callouts:
   warning:
     title: Warning
     color: red
+
+# Set a path/url to a favicon that will be displayed by the browser
+favicon_ico: "/portfoliotesting2/favicon.ico"
+ 
