@@ -11,7 +11,7 @@ To start using Product A, you need to install it.
 {: .note-title }
 >**Note**
 >
->Product A v1.21 and later require at least Windows 10 or Windows Server 2016.
+>Product A v1.2.1 and later require at least Windows 10 or Windows Server 2016.
 >
 
 ## Install Product A
