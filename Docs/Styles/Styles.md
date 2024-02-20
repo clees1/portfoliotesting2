@@ -2,13 +2,14 @@
 layout: page
 title: Styles
 nav_order: 5
+permalink: Styles/Styles
 ---
 # Styles
 
 You can use various styles to create a consistent look across your documents. Styles are building blocks to transform boring text into visually appealing and functional structures. In addition to Product A default styles, you can also create your own custom styles using CSS.
 
 {: .note-title }
->**Highlight important information**
+>**Note**
 >
 >You can import a custom .css file rather than creating one from scratch. For more information, see Import a Custom CSS File.
 >

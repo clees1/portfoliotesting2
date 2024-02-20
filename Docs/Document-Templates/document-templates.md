@@ -2,6 +2,7 @@
 layout: page
 title: Document Templates
 nav_order: 6
+permalink: Document-Templates/Document-Templates
 ---
 # Document Templates
 

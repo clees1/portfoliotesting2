@@ -2,6 +2,7 @@
 layout: page
 title: Documents
 nav_order: 4
+permalink: Documents/Documents
 ---
 # Documents
 
