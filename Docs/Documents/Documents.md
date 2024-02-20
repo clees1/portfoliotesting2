@@ -30,12 +30,11 @@ Create and edit documents with text, images, and tables. You can also customize 
     * **Page Layout** - Margins, orientation, size, background.
     * **Style** - Headers, titles, subtitles.
 
-> {: .note-title }
->>**Note**
->>
->>Click [here](/portfoliotesting2/Styles/Styles) to learn about styles in Product A.
->>
-    
+     > {: .note-title }
+     >>**Note**
+     >>
+     >>Click [here](/portfoliotesting2/Styles/Styles) to learn about styles in Product A.
+     >>
 4. Click **Save**.
 
 ### Add Images to Your Document
