@@ -20,6 +20,3 @@ callouts:
   warning:
     title: Warning
     color: red
-
-# Favicon that will be displayed by the browser
-favicon_ico: "assets\images\ProductA.ico"
