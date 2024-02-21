@@ -21,6 +21,6 @@ callouts:
     title: Warning
     color: red
 
-# Set a path/url to a favicon that will be displayed by the browser
-favicon_ico: "/portfoliotesting2/favicon.ico"
+# Set a path/url to a favicon that will be displayed by the browser. Update "favicon.ico" to rel path if it's not in base directory.
+# favicon_ico: "favicon.ico" 
  
