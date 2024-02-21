@@ -16,11 +16,11 @@ To start using Product A, you need to install it.
 
 ## Install Product A
 
-1. Go to [www.ProductA.com/Install](https://clees1.github.io/portfoliotesting2/).
+1. Go to **[www.ProductA.com/Install](https://clees1.github.io/portfoliotesting2/)**.
 2. Click **Install Now**.
 3. Depending on your browser, select **Run** (in Microsoft Edge or Internet Explorer), **Setup** (in Chrome), or **Save File** (in Firefox).
 
-    If you see the User Account Control prompt that says, Do you want to allow this app to make changes to your device? select **Yes**.
+    If you see the User Account Control prompt phrase, "Do you want to allow this app to make changes to your device?" select **Yes**.
 
     The install begins.
 4. Your install is finished when you see the phrase, "You're all set! Product A is installed now." Select **Close**.

@@ -28,14 +28,14 @@ Before you begin this tutorial, you must:
 3. Enter a **Name** for your document.
 4. Design your document.
    
-   ### Type your text
+   ### Type Your Text
    
    You can change:
     - **Font** - Font, font size, font color, bold, italicize, underline, strikethrough.
     - **Style** - Headers, titles, subtitles.
     - **Page Layout** - Margins, orientation, size, background.
   
-   ### Add images
+   ### Add Images
    
    * Click **Insert > Image**.
    You can:
@@ -43,7 +43,7 @@ Before you begin this tutorial, you must:
     - **Adjust Brightness/Contrast/Sharpness** - Adjust image brightness, contrast, and sharpness.
     - **Crop** - Crop the image.
    
-   ### Add Tables.
+   ### Add Tables
    
    * Click **Insert > Table**
    You can:
